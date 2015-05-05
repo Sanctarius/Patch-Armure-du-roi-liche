@@ -1,0 +1,32 @@
+Copyright © Sanctarius : 
+
+
+Étape 1) Exécutez le armure_arthas.sql dans votre DB "WORLD".
+
+Étape 2) Placez votre fichier MPQ dans votre dossier World of warcraft > Data.
+
+Étape 3) Pensez à vidé votre cache.
+
+
+
+
+
+ID de l'armure et de l'arme :
+
+Casque : 70000
+
+Épaules : 70001
+
+Torse : 70002
+
+Ceinture : 70003
+
+Jambe : 70004
+
+Botte : 70005
+
+Poignet : 70006
+
+Gant : 70007
+
+Arme : 70008
